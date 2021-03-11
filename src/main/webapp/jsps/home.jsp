@@ -4,8 +4,8 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>MithunTechnologies- Home Page</title>
-<link href="images/mithunlogo.jpg" rel="icon">
+<title>Kiran- Home Page</title>
+<link href="images/kiran.jpg" rel="icon">
 </head>
 </head>
 <body>
