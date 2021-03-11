@@ -96,23 +96,23 @@
 		</dependency>
 		
 	</dependencies>
-	<!--
+	
 	<distributionManagement>
 	
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://ec2-3-86-7-93.compute-1.amazonaws.com:8081/repository/Kiran-releases/</url>
+	      <url>http://ec2-54-146-10-18.compute-1.amazonaws.com:8081/repository/Kiran-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://ec2-3-86-7-93.compute-1.amazonaws.com:8081/repository/Kiran-snapshot/</url>
+	      <url>http://ec2-54-146-10-18.compute-1.amazonaws.com:8081/repository/Kiran-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
-	-->
+	
 	<build>
 		<finalName>maven-web-application</finalName>
 		
